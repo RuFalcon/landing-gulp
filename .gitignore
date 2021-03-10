@@ -1,0 +1,9 @@
+logs
+*.log
+npm-debug.log*
+.cache
+.vscode-test
+.npm
+.idea
+.vscode
+node_modules/
